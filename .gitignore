@@ -1,0 +1,16 @@
+.DS_Store
+**/xcuserdata/
+*.xcuserstate
+DerivedData/
+build/
+**/bin/
+**/obj/
+.vs/
+*.user
+*.suo
+*.pfx
+*.p12
+*.key
+*.crt
+*.cer
+*.pem
